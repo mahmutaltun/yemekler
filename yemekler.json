@@ -1,0 +1,56 @@
+﻿{"yemekler":[
+    { "yemek_Id":1,
+	"yemek_adi":"Yemek adi 1",
+	"yemek_aciklama":"Tarifi Detayları 1 "
+	"yemek_tur":"John",
+	"yemek_pisirme":"Doe",
+	"yemek_hazirlama_süresi":"Doe"
+	"yemek_kisi_sayisi":"John",
+	"yemek_resim":"Doe",
+	"yemek_malzeme":"Doe"	
+	},
+	{ "yemek_Id":2,
+	"yemek_adi":"Yemek adi 1",
+	"yemek_aciklama":"Yemek açiklaması "
+	"yemek_tur":"John",
+	"yemek_pisirme":"Doe",
+	"yemek_hazirlama_süresi":"Doe"
+	"yemek_kisi_sayisi":"John",
+	"yemek_resim":"Doe",
+	"yemek_malzeme":"Doe"	
+	},
+	{"yemek_Id":3,
+	"yemek_adi":"Yemek adi 1",
+	"yemek_aciklama":"Yemek açiklaması "
+	"yemek_tur":"John",
+	"yemek_pisirme":"Doe",
+	"yemek_hazirlama_süresi":"Doe"
+	"yemek_kisi_sayisi":"John",
+	"yemek_resim":"Doe",
+	"yemek_malzeme":"Doe"	
+	},
+	{"yemek_Id":4,
+	"yemek_adi":"Yemek adi 1",
+	"yemek_aciklama":"Yemek açiklaması "
+	"yemek_tur":"John",
+	"yemek_pisirme":"Doe",
+	"yemek_hazirlama_süresi":"Doe"
+	"yemek_kisi_sayisi":"John",
+	"yemek_resim":"Doe",
+	"yemek_malzeme":"Doe"	
+	},
+	{"yemek_Id":5,
+	"yemek_adi":"Yemek adi 1",
+	"yemek_aciklama":"Yemek açiklaması "
+	"yemek_tur":"John",
+	"yemek_pisirme":"Doe",
+	"yemek_hazirlama_süresi":"Doe"
+	"yemek_kisi_sayisi":"John",
+	"yemek_resim":"Doe",
+	"yemek_malzeme":"Doe"	
+	}
+]}
+
+yemekId
+yemekadi
+yemekaciklama
